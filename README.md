@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on platforms/ecosystems built with TypeScript, Next.js, Golang, Graphql and more. 
-- 🌱 I’m currently learning to optimize vector search, embeddings, and vector db's (always learning). 
+- 🔭 TypeScript, Next.js, Golang, Graphql, oh my 
+- 🌱 Currently interested / learning to optimize vector search, embeddings, and vector db's (always learning). 
 - 👯 I’m looking to collaborate/improve auth approaches for next.js and between services.
 <!--
 - 🤔 I’m looking for help with ...
