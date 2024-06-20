@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 TypeScript, Next.js, Golang, Graphql, oh my 
-- 🌱 Currently interested / learning to optimize vector search, embeddings, and vector db's (always learning). 
-- 👯 I’m looking to collaborate/improve auth approaches for next.js and between services.
+- 🔭 TypeScript, Next.js, Node.js, Golang, Graphql, oh my 
+- 🌱 Currently interested in optimizing vector search, embeddings, and vector db's (always learning). 
 <!--
+- 👯 I’m looking to collaborate/improve 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
