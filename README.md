@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 TypeScript, Next.js, Node.js, Golang, Graphql, oh my 
+- 🔭 TypeScript, Next.js, Node.js, Golang, Python, Graphql, oh my 
 - 🌱 Currently interested in optimizing vector search, embeddings, and vector db's (always learning). 
 <!--
 - 👯 I’m looking to collaborate/improve 
