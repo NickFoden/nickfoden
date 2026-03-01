@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 TypeScript, Next.js, Node.js, Go, Python, Graphql, oh my 
+- 🔭 Go, TypeScript, Python, Node.js, GraphQL, oh my 
 - 🌱 Currently interested in optimizing Go services for low latency enterprise llm workloads. 
 <!--
 - 👯 I’m looking to collaborate/improve 
